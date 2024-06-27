@@ -196,13 +196,14 @@
     background-color: $white-normal;
     z-index: 2;
 
-    button {
+    a {
         color: $white-normal;
         background-color: $red-normal;
         padding: 4px 8px;
         border-radius: 4px;
         border: none;
         cursor: default;
+        cursor: pointer;
     }
 }
 
